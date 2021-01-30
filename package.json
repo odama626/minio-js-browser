@@ -1,0 +1,19 @@
+{
+  "name": "minio-js-browser",
+  "version": "1.0.0",
+  "description": "This repo contains the [browserify][] build of [minio-js][], so it can be used by frontend (browser GUI) projects using [yarn][] or [npm][] for dependency management.",
+  "main": "minio-browser-es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odama626/minio-js-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odama626/minio-js-browser/issues"
+  },
+  "homepage": "https://github.com/odama626/minio-js-browser#readme"
+}
